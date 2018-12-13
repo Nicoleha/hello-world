@@ -5,3 +5,5 @@
 |a triangle is equilateral| all side are equal| Equilateral Triangle|
 |a triangle is scalene|two sides are equal |Scalene Triangle|
 |it is not a triangle | the sum of any two sides is not equal to the third sum|Not a Triangle|
+
+###[MIT]
