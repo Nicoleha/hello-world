@@ -30,5 +30,5 @@ If needed contact me on:
 E-mail:nicoleha127@gmail.com
 Phone:0732702205-0781899928.
 ### License
-*[MIT]*
+*[MIT](http://choosealisence.com/licenses/mit/)*
 Copyright (c) 2018 **HATEGEKIMANA NICOLE**
