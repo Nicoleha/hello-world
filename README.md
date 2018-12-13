@@ -6,4 +6,4 @@
 |a triangle is scalene|two sides are equal |Scalene Triangle|
 |it is not a triangle | the sum of any two sides is not equal to the third sum|Not a Triangle|
 
-[MIT](http://chooselicense.com/license/mit)
+[MIT](http://choosealicense.com/licenses/mit)
